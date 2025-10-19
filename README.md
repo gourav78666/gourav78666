@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/goravshaw35523" target="blank"><img src="https://img.shields.io/twitter/follow/goravshaw35523?logo=twitter&style=for-the-badge" alt="goravshaw35523" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA, MySQl**
+- 🔭 I’m currently working on **JAVA, MySQl,OOPS IN JAVA,PYTHON**
 
 - 🌱 I’m currently learning **#DSA, #HTML,#CSS, #JS, #JAVA, and #development**
 
-- 👯 I’m looking to collaborate on **DSA,MySQL**
+- 👯 I’m looking to collaborate on **DSA,MySQL,JAVA**
 
-- 💬 Ask me about **DSA, WEBDEV**
+- 💬 Ask me about **DSA, JAVA**
 
-- 📫 How to reach me **gouravshaw150@gmail.com**
+- 📫 How to reach me **gouravshaw150@gmail.com,https://www.linkedin.com/in/gourav-shaw-358a53267/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
